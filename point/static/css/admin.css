@@ -1,0 +1,34 @@
+#header{
+    background-color: white !important;
+}
+#header a:link, #header a:visited{
+    color: black !important;
+}
+#user-tools{
+    color: red !important;
+    font-size: 18px;
+}
+.module h2, .module caption, .inline-group h2{
+    background-color: black;
+}
+h1 {
+    margin: 0 0 20px;
+    font-weight: 300;
+    font-size: 22px;
+    color: #b7ac2a;
+}
+.button.default, input[type=submit].default, .submit-row input.default{
+    background-color: black;
+}
+.button, input[type=submit], input[type=button], .submit-row input, a.button{
+    background-color: black;
+    border-radius: 20px;
+}
+div.breadcrumbs{
+    color: red;
+    background-color: black;
+    font-size: 17px;
+}
+a:link, a:visited{
+    color: #50cd88;
+}
